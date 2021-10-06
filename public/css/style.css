@@ -1,0 +1,26 @@
+h1, h2, h3, h4 {
+    margin: 8px 0;
+} 
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 200px;
+}
+
+.post-square{
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.square{
+    height: 500px;
+    width: 500px;
+    background-color: orange;
+}
