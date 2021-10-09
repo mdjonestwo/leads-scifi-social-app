@@ -12,6 +12,17 @@ module.exports = (app) => {
       });
   });
 
+  //GET One Clip ROUTE
+  app.get("api/clips", (req, res) => {
+    db.Clip.find()
+      .then((response) => {
+        res.json(response);
+      })
+      .catch((err) => {
+        res.json(err);
+      });
+  });
+
     //POST ROUTE
     app.post("/api/clips", (req, res) => {
       db.Clip.create(req.body)
