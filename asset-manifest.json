@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/leads-scifi-social-app/static/css/main.eedf4978.chunk.css",
-    "main.js": "/leads-scifi-social-app/static/js/main.29d32f82.chunk.js",
-    "main.js.map": "/leads-scifi-social-app/static/js/main.29d32f82.chunk.js.map",
+    "main.js": "/leads-scifi-social-app/static/js/main.e5f00115.chunk.js",
+    "main.js.map": "/leads-scifi-social-app/static/js/main.e5f00115.chunk.js.map",
     "runtime-main.js": "/leads-scifi-social-app/static/js/runtime-main.8c691204.js",
     "runtime-main.js.map": "/leads-scifi-social-app/static/js/runtime-main.8c691204.js.map",
     "static/js/2.cc1f90af.chunk.js": "/leads-scifi-social-app/static/js/2.cc1f90af.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.8c691204.js",
     "static/js/2.cc1f90af.chunk.js",
     "static/css/main.eedf4978.chunk.css",
-    "static/js/main.29d32f82.chunk.js"
+    "static/js/main.e5f00115.chunk.js"
   ]
 }
