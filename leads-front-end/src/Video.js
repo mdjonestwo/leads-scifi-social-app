@@ -2,6 +2,7 @@ import React, { useRef, useState } from 'react'
 import "./Video.css";
 import VideoFooter from './VideoFooter';
 import VideoSidebar from './VideoSidebar';
+// import ReactPlayer from 'react-player'
 
 
 function Video({ url, channel, description, movieTitle, likes, shares, messages }) {
